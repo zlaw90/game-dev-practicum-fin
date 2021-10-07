@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: bb1011e253ac0e0469e2fae75cc95ede
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5903935094589078604
+    second: redLaserStop_0
+  - first:
+      213: 5945634034615435823
+    second: redLaserStop_1
+  - first:
+      213: -8356332681487496256
+    second: redLaserStop_2
+  - first:
+      213: 6573850552571883667
+    second: redLaserStop_3
+  - first:
+      213: 3117473513802016069
+    second: redLaserStop_4
+  - first:
+      213: 186973259515759010
+    second: redLaserStop_5
+  - first:
+      213: -2954567377791397626
+    second: redLaserStop_6
+  - first:
+      213: -4550421594981622245
+    second: redLaserStop_7
+  - first:
+      213: -6902812403450353297
+    second: redLaserStop_8
+  - first:
+      213: -6846303242922383037
+    second: redLaserStop_9
+  - first:
+      213: -3388625787674954664
+    second: redLaserStop_10
+  - first:
+      213: 6586933697251914047
+    second: redLaserStop_11
+  - first:
+      213: -6278260213680194305
+    second: redLaserStop_12
+  - first:
+      213: 1068408006985829635
+    second: redLaserStop_13
+  - first:
+      213: -6395684264725207907
+    second: redLaserStop_14
+  - first:
+      213: 7005120331250657422
+    second: redLaserStop_15
+  - first:
+      213: 3408956871216324174
+    second: redLaserStop_16
+  - first:
+      213: -5867362249244912876
+    second: redLaserStop_17
+  - first:
+      213: -6114648790434472998
+    second: redLaserStop_18
+  - first:
+      213: -6050180565647068239
+    second: redLaserStop_19
+  - first:
+      213: 877772128673720587
+    second: redLaserStop_20
+  - first:
+      213: 8453055830889700456
+    second: redLaserStop_21
+  - first:
+      213: -1221688605189124776
+    second: redLaserStop_22
+  - first:
+      213: -2020393366946287500
+    second: redLaserStop_23
+  - first:
+      213: -1147620346815874579
+    second: redLaserStop_24
+  - first:
+      213: -3513063835125076003
+    second: redLaserStop_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redLaserStop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 600
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b34e06df42011ea0800000000000000
+      internalID: -5903935094589078604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redLaserStop_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1480
+        width: 600
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c9b537a2238250800000000000000
+      internalID: 5945634034615435823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redLaserStop_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 600
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb43fe23b7580c80800000000000000
+      internalID: -8356332681487496256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redLaserStop_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 740
+        width: 600
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3907d807f320b3b50800000000000000
+      internalID: 6573850552571883667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redLaserStop_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545abdac4ad734b20800000000000000
+      internalID: 3117473513802016069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 197c001b33393834fb2c6fc560ec6da4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
